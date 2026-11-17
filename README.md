@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
+
+# George | Data Science & AI
+
+**MSc Data Science student · Python · Data Analytics · Machine Learning**
+
+I’m building practical skills in data science and AI, with a focus on turning data into clear insights and useful applications.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Joryh--IO-181717?style=flat&logo=github)](https://github.com/Joryh-IO)
+
+</div>
+
+---
+
+## About
+
+I’m currently pursuing an MSc in Data Science and developing my skills across the data science workflow — from exploring and preparing data to building and evaluating machine learning models.
+
+I’m especially interested in applied machine learning, deep learning, natural language processing and AI applications that solve real-world problems.
+
+- 🎓 **Currently:** MSc Data Science
+- 🧠 **Learning:** Machine learning, deep learning and NLP
+- 🛠️ **Building:** Practical Python and data science projects
+- 🎯 **Goal:** Develop reliable, well-documented projects that demonstrate analytical and engineering skills
+
+## Technical toolkit
+
+**Working with**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**Currently developing**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+## Areas of interest
+
+- **Data analytics:** exploratory data analysis, visualisation and communicating findings
+- **Machine learning:** predictive modelling, model evaluation and feature engineering
+- **Deep learning:** neural networks and practical applications
+- **NLP and generative AI:** language models, retrieval-augmented generation and intelligent applications
+- **Applied AI:** aviation, audio and other real-world problem domains
+
+## Projects
+
+I’m building a portfolio of end-to-end projects. I’ll feature projects here as they become reproducible, documented and ready to review.
+
+For each project, I aim to include the problem statement, dataset source, methodology, evaluation, key findings and instructions to run the code.
 
 <!--
-**Joryh-IO/Joryh-IO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When a project is ready, replace this comment with a section like:
 
-Here are some ideas to get you started:
+### Project name
+One-sentence description of the problem and what you built.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Methods:** ...
+- **Tools:** ...
+- **Result:** ...
+- **Repository:** [View project](https://github.com/Joryh-IO/REPOSITORY-NAME)
 -->
+
+## GitHub activity
+
+<div align="center">
+
+[![George's GitHub stats](https://github-stats-extended.vercel.app/api?username=Joryh-IO&show_icons=true&hide_border=true&theme=default)](https://github.com/Joryh-IO)
+
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Joryh-IO&layout=compact&hide_border=true&theme=default)](https://github.com/Joryh-IO)
+
+[![GitHub streak](https://streak-stats.demolab.com?user=Joryh-IO&hide_border=true&theme=default)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting. Feel free to explore my repositories and follow along as I learn and build.**
+
+[GitHub profile](https://github.com/Joryh-IO)
+
+</div>
