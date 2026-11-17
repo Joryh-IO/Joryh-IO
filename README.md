@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # George | Data Science & AI
 
@@ -8,7 +8,7 @@ I’m building practical skills in data science and AI, with a focus on turning 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Joryh--IO-181717?style=flat&logo=github)](https://github.com/Joryh-IO)
 
-</div>
+
 
 ---
 
