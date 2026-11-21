@@ -56,9 +56,6 @@ I’m building a portfolio of end-to-end projects. I’ll feature projects here 
 
 For each project, I aim to include the problem statement, dataset source, methodology, evaluation, key findings and instructions to run the code.
 
-<div>
-   <img src="https://example.com" alt="struggling happy cat">
-</div>
 
 ---
 <!--
@@ -74,16 +71,14 @@ One-sentence description of the problem and what you built.
 -->
 
 
+<div align='center'>
+  <img src="https://raw.githubusercontent.com/Joryh-IO/Joryh-IO/main/assets/cat-wizard-mad-typing-cat-office-mad.gif" alt="struggling happy cat" >
+</div>
 
 
-
-
-
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Joryh-io/Joryh-io/snake-output/snake.svg" alt="Snake animation" />
 
 <div align='center'>
-**Thanks for visiting. Feel free to explore my repositories and follow along as I learn and build.**
+<b>Thanks for visiting. Feel free to explore my repositories and follow along as I learn and build.</b>
 </div>
 <div data-importer="socials" align="center">
  <a href='https://www.linkedin.com/in/georgesujeeth/'> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
@@ -92,7 +87,7 @@ One-sentence description of the problem and what you built.
   
 </div>
 
+<div align="center">
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUyNjA2OTAsIm5iZiI6MTc5NTI2MDM5MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIxVDExMjYzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3YzczYjI1NDU5NDdhZWM4MjEwNjY5OWM5MGUwZjQ4YTc1NDUyMDg1ZTQ0ZWZkYjQ3MGRmNzY2ZThjMjE5NDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.4u0ViCGZzz7ZGZemX2DR5Q4KgEdZxWSbqi8n-kDeVyY"/>
 
-
-
-
+</div>
