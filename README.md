@@ -1,6 +1,6 @@
 
 
-# George | Data Science & AI  <img src="https://raw.githubusercontent.com/Joryh-IO/Joryh-IO/main/assets/cat-angry-cat.gif" alt="struggling happy cat" height=50px>
+# George <img src="https://raw.githubusercontent.com/Joryh-IO/Joryh-IO/main/assets/cat-angry-cat.gif" alt="struggling happy cat" height=30px >  Data Science & AI  
 
 **MSc Data Science student · Python · Data Analytics · Machine Learning**
 
