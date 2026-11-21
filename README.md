@@ -56,6 +56,11 @@ I’m building a portfolio of end-to-end projects. I’ll feature projects here 
 
 For each project, I aim to include the problem statement, dataset source, methodology, evaluation, key findings and instructions to run the code.
 
+<div>
+   <img src="https://example.com" alt="struggling happy cat">
+</div>
+
+---
 <!--
 When a project is ready, replace this comment with a section like:
 
@@ -68,24 +73,26 @@ One-sentence description of the problem and what you built.
 - **Repository:** [View project](https://github.com/Joryh-IO/REPOSITORY-NAME)
 -->
 
-## GitHub activity
 
-<div align="center">
 
-[![George's GitHub stats](https://github-stats-extended.vercel.app/api?username=Joryh-IO&show_icons=true&hide_border=true&theme=default)](https://github.com/Joryh-IO)
 
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Joryh-IO&layout=compact&hide_border=true&theme=default)](https://github.com/Joryh-IO)
 
-[![GitHub streak](https://streak-stats.demolab.com?user=Joryh-IO&hide_border=true&theme=default)](https://git.io/streak-stats)
 
-</div>
 
----
 
-<div align="center">
+<img data-importer="snake" src="https://raw.githubusercontent.com/Joryh-io/Joryh-io/snake-output/snake.svg" alt="Snake animation" />
 
+<div align='center'>
 **Thanks for visiting. Feel free to explore my repositories and follow along as I learn and build.**
-
-[GitHub profile](https://github.com/Joryh-IO)
-
 </div>
+<div data-importer="socials" align="center">
+ <a href='https://www.linkedin.com/in/georgesujeeth/'> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  
+</div>
+
+
+
+
+
